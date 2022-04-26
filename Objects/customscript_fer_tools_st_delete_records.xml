@@ -1,0 +1,25 @@
+<suitelet scriptid="customscript_fer_tools_st_delete_records">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>fer_tools_st_delete_records</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteScripts/ferrsoft-netsuite-tools/suitelets/fer_tools_st_delete_records.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_fer_tools_st_delete_records">
+      <allemployees>F</allemployees>
+      <allpartners>F</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>F</isonline>
+      <loglevel>ERROR</loglevel>
+      <runasrole>ADMINISTRATOR</runasrole>
+      <status>RELEASED</status>
+      <title>fer_tools_st_delete_records</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</suitelet>
